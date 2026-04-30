@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shehdijs.github.io/meiribiquan/sitemap.xml
